@@ -1,0 +1,10 @@
+*.last
+*~
+*#
+*.data
+
+# Emacs folders
+auto-save-list/
+url/
+elpa/
+
